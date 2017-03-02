@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="gs-spring-boot-docker-master/complete/src/main/java"/>
+	<classpathentry kind="src" path="gs-spring-boot-docker-master/complete/src/test/java"/>
+	<classpathentry kind="src" path="gs-spring-boot-docker-master/initial/src/main/java"/>
+	<classpathentry kind="lib" path="gs-spring-boot-docker-master/complete/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="gs-spring-boot-docker-master/complete/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="gs-spring-boot-docker-master/initial/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="gs-spring-boot-docker-master/initial/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
